@@ -1,0 +1,26 @@
+.custom-nav-link .nav-link {
+  padding: 10px;
+}
+
+.brew-bg {
+  background: url('https://courses.ics.hawaii.edu/ics314s24/morea/ui-frameworks/morning-brew-coffee.png') no-repeat center center fixed;
+  background-size: cover;
+  height: 500px;
+  padding-top: 200px;
+}
+
+.aloha-text {
+  color: whitesmoke;
+  font-family: noticia text,serif;
+  position: absolute;
+  font-size: 65px;
+  left: 414px;
+  bottom: 415px;
+}
+
+.aloha-buttons {
+  color: whitesmoke;
+  font-family: noticia text,serif;
+  font-size: 15px;
+  font-style: italic;
+}
